@@ -13,7 +13,7 @@ Yes, Leaf includes all the Purpur patches, but some Purpur settings are moved to
 Generally 1 ˜ 3 weeks, depends on how important an update on upstream.
 
 ### ❓ · How can I optimize my server?
-You can refer to [YouHaveTrouble's guide](https://github.com/YouHaveTrouble/minecraft-optimization), or [optimization guide](https://nitwikit.yizhan.wiki/Java/optimize) of NitWikkit made by the community (For Chinese user).
+You can refer to [YouHaveTrouble's guide](https://github.com/YouHaveTrouble/minecraft-optimization), or [optimization guide](https://nitwikit.yizhan.wiki/Java/optimize) of NitWikit made by the community (For Chinese user) and [Paper-chan optimization guide](https://paper-chan.moe/paper-optimization/).
 
 ### ❓ · Any known incompatibilities?
 * [RealisticVillagers](https://www.spigotmc.org/resources/realisticvillagers.105055) (Incompatible with the Leaf version lower than 1.21.1).
