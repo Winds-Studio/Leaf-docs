@@ -56,8 +56,8 @@ performance: #(14)!
     skip-tick-count: 30 #(27)!
   # Dies könnte zu einer inkonsistenten Reihenfolge zukünftiger Kompositionsaufgaben führen.
   faster-structure-gen-future-sequencing: true #(28)!
-  # Erfordert eine JVM, die RandomGenerator und LXM Generatoren unterstützt.
-  # Manche JREs unterstützten dies nicht und werden abstürzen.
+  # Erfordert eine JVM, die RandomGenerator.
+  # Manche JREs unterstützten dies nicht.
   faster-random-generator: #(29)!
     enabled: false
     random-generator: Xoroshiro128PlusPlus #(30)!
@@ -441,7 +441,7 @@ misc: #(70)!
 
     !!! note "Achtung"
 
-        Erfordert eine JVM, die `RandomGenerator` und die LXM Generatoren unterstützt. Manche JREs unterstützen dies nicht und werden abstürzen.
+        Erfordert eine JVM, die `RandomGenerator`. Manche JREs unterstützen dies nicht.
 
 30. Welcher Zufallsgenerator soll genutzt werden?<br>
   Verfügbare Zufallsgeneratoren können hier gefunden werden [Zufallsgeneratoren in Java](https://www.baeldung.com/java-17-random-number-generators#1-api-design-1).<br>

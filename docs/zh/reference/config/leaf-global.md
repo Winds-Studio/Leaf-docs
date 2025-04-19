@@ -56,8 +56,8 @@ performance: #(14)!
     skip-tick-count: 30 #(27)!
   # 此配置项可能导致结构生成任务的合并顺序不一致.
   faster-structure-gen-future-sequencing: true #(28)!
-  # 需要使用支持 RandomGenerator 和 LXM 生成器的 JVM 来运行服务器.
-  # 一些 JRE 不支持此功能, 可能会导致崩溃.
+  # 需要使用支持 RandomGenerator 的 JVM 来运行服务器.
+  # 一些 JRE 可能不支持此功能.
   faster-random-generator: #(29)!
     enabled: false
     random-generator: Xoroshiro128PlusPlus #(30)!
@@ -443,7 +443,7 @@ misc: #(70)!
 
     !!! note "注意"
 
-        需要使用支持 `RandomGenerator` 和 LXM 生成器的 JVM 来运行服务器. 一些 JRE 不支持此功能, 可能会导致崩溃.
+        需要使用支持 `RandomGenerator` 的 JVM 来运行服务器. 一些 JRE 不支持此功能.
 
 30. 需要使用哪种随机数生成器?<br>
   可参阅 [Java 随机数生成器](https://www.baeldung.com/java-17-random-number-generators#1-api-design-1), 了解所有可用的随机数生成器.<br>
