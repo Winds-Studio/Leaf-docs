@@ -2,8 +2,8 @@
 
 !!! warning
 
-    This docs site is under heavily constructing!
-    For more information, please contact use via our [Discord server](https://discord.gg/gfgAwdSEuM)
+    This site is archived!
+    Please see [new Leaf Docs](https://www.leafmc.one/docs/)
 
 Leaf is a Paper fork, aim to find balance between Performance, Vanilla, and Stability, designed for large network, high capacity situation.
 

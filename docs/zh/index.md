@@ -2,7 +2,7 @@
 
 !!! warning
 
-    此 Docs 站仍在建设中! 更多信息请加入 Leaf 社区群 619278377
+    此站已废弃, 请访问 [新 Leaf 文档](https://www.leafmc.one/zh/docs/)
 
 Leaf 是一个 Paper 分支, 专注于寻找性能优化, Vanilla, 稳定之间的平衡, 为大型网络, 密集和高承载量场景设计.
 

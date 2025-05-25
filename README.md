@@ -1,3 +1,8 @@
+> [!WARNING]
+> This repo is archived. \
+> New Leaf docs: https://www.leafmc.one/docs/ \
+> New repo: https://github.com/Winds-Studio/Leaf-website
+
 # Leaf Docs
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](LICENSE)

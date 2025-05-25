@@ -2,8 +2,8 @@
 
 !!! warning "Warnung"
 
-    Diese Dokumentation ist aktuell noch in Arbeit
-    Weitere Informationen sind auf unserem [Discord server](https://discord.gg/gfgAwdSEuM) erhältlich
+    Diese Website ist archiviert!
+    Bitte besuchen Sie die [neuen Leaf-Dokumente](https://www.leafmc.one/de/docs/)
 
 Leaf ist ein Paper-Fork mit dem Ziel, die Balance zwischen Leistung, Stabilität und Vanilla-Gameplay zu finden. Leaf wurde für große Netzwerke und Szenarien mit hohen Anforderungen konzipiert
 
